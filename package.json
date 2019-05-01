@@ -2,6 +2,7 @@
   "name": "filter-product-latihan",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://sandropoluan.github.io/filter-product-latihan",
   "dependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
