@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/filter-product-latihan/precache-manifest.5bebce2d3786cb14a4969d07a07d0747.js"
+  "/filter-product-latihan/precache-manifest.85fc40826d10deadeae2eae8e39dd444.js"
 );
 
 self.addEventListener('message', (event) => {
