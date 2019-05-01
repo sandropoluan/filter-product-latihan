@@ -1,0 +1,45 @@
+.product {
+  margin-top: 30px;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.55);
+  padding: 24px;
+  min-height: 190px;
+
+  .flex-area {
+    display: flex;
+    flex-direction: row;
+
+    .name {
+      color: black;
+      font-weight: bold;
+      font-size: 20px;
+      float: left;
+    }
+
+    .price {
+      margin-left: auto;
+      color: #fcac50;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .delivery_time {
+      font-size: 14px;
+      margin-top: 4px;
+      font-weight: bold;
+      color: #2072CB;
+      margin-left: auto;
+      text-decoration: underline;
+    }
+  }
+
+  .description {
+    margin-top: 10px;
+  }
+
+  .furniture_style {
+    color: #488cd4;
+    font-size: 14px;
+    margin-top: 4px;
+    font-weight: bold;
+  }
+}
